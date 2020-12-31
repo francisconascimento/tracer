@@ -16,7 +16,3 @@ cmake ../src
 make && ./keyboard
 ```
 ![image](https://imgur.com/uMtgnuC.jpg)
-
-[more images](https://imgur.com/a/5PrbSRg)
-
-
