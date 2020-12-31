@@ -358,11 +358,11 @@ KeyData::KeyData(TransformList key_origin) {
     k.SetParent(key_a);
 
     k.AddTransform();
-    k.t().y = 3;
-    k.t().z = -2;
+    // k.t().y = 3;
+    // k.t().z = -2;
 
-    k.t().y += 1;
-    k.t().z += -2;
+    // k.t().y += 1;
+    // k.t().z += -2;
   });
 
   key_1 = GetRotatedKey(kAColumnRadius, true);
