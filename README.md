@@ -1,6 +1,10 @@
 # Dactyl Tracer
 
-This is built similarly to the [Dactyl CC](https://github.com/mjohns/dactyl-cc). The layout is more similar to the Dactyl Manuform in the the rows spacing and first few thumb keys. The 'q' key is offset from 'a' to be better hit with the ring finger.
+All credit goes to [Michael Johns](https://github.com/mjohns).
+
+This is a fork from Michael Johns' Dactyl Tracer.
+
+Forked so I can experiment with different settings - for example 'Q' key position.
 
 ![image](https://imgur.com/ReCBppE.jpg)
 
